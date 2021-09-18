@@ -2,7 +2,7 @@
 This is a web app which allows user to get the weather info of any place in the world as soon as possible. It makes use of OpenWeatherMap to get its info
 
 # Installation
-All you have to do to get running is to install pyowm by running
+install pyowm by running
 ``` pip install pyowm ```
 
 # Usage
